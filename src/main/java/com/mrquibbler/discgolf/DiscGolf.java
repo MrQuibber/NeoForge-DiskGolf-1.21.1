@@ -52,6 +52,11 @@ public class DiscGolf {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
             event.accept(ModItems.RED_DRIVER);
+            event.accept(ModItems.ORANGE_DRIVER);
+            event.accept(ModItems.YELLOW_DRIVER);
+            event.accept(ModItems.GREEN_DRIVER);
+            event.accept(ModItems.BLUE_DRIVER);
+            event.accept(ModItems.PURPLE_DRIVER);
         }
     }
 
