@@ -1,0 +1,16 @@
+{
+  "itemGroup.examplemod": "Example Mod Tab",
+  "block.examplemod.example_block": "Example Block",
+  "item.discgolf.red_driver": "Red Driver",
+  "item.discgolf.orange_driver": "Orange Driver",
+  "item.discgolf.yellow_driver": "Yellow Driver",
+  "item.discgolf.green_driver": "Green Driver",
+  "item.discgolf.blue_driver": "Blue Driver",
+  "item.discgolf.purple_driver": "Purple Driver",
+  "item.discgolf.red_putter": "Red Putter",
+  "item.discgolf.orange_putter": "Orange Putter",
+  "item.discgolf.yellow_putter": "Yellow Putter",
+  "item.discgolf.green_putter": "Green Putter",
+  "item.discgolf.blue_putter": "Blue Putter",
+  "item.discgolf.purple_putter": "Purple Putter"
+}
